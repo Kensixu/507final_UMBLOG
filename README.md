@@ -5,7 +5,9 @@ UMICH Library Blog: https://www.lib.umich.edu/blogs
 
 ## Get Start
 
-In order to create the database, run *user_interface.py*. Without cached file, it will take 30 minutes to create the cache file and database. After that, you can run the unit tests in final_proj_test.py.
+Cache file *BLOG_CACHE.json* is submitted on Canvas, please download.
+
+Without cached file, it will take around 30 minutes to create the cache file and database. First, run *user_interface.py* and users can input instructions guided by *help.txt*. At last, users can run the unit tests in *test.py*. Also be noted, if user update and create new database, test file may report error.
 
 ## Description
 
